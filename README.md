@@ -1,11 +1,11 @@
-### 🌸Iris Flower Species Classification using Machine Learning
-## 📌 Project Overview
+## 🌸Iris Flower Species Classification using Machine Learning
+### 📌 Project Overview
 
 This project aims to classify Iris flowers into three species — Setosa, Versicolor, and Virginica — using Machine Learning techniques. The project follows a complete ML workflow including data preprocessing, exploratory data analysis (EDA), model training, hyperparameter tuning, evaluation, and deployment through a Streamlit web application.
 
 The goal is to build a robust classification model that can accurately predict the species of an Iris flower based on its sepal and petal measurements.
 
-## 📂 Dataset Information
+### 📂 Dataset Information
 
 The Iris dataset is one of the most widely used datasets in Machine Learning.
 
@@ -63,12 +63,12 @@ Analysis Performed
 
 ✔ Studied feature relationships among different species
 
-## Key Findings
+### Key Findings
 Setosa species is easily separable from the other classes.
 Petal length and petal width are highly informative features.
 Dataset contains no missing values.
 Features show strong correlation patterns useful for classification.
-## 🤖 Machine Learning Models
+### 🤖 Machine Learning Models
 
 The following classification algorithms were implemented and compared:
 
@@ -92,7 +92,7 @@ Random Forest	XX%
 
 (Replace XX with your actual results.)
 
-## ⚙ Hyperparameter Tuning
+### ⚙ Hyperparameter Tuning
 
 To improve model performance, GridSearchCV was used for hyperparameter optimization.
 
@@ -109,7 +109,7 @@ Benefits
 Improved model accuracy
 Reduced overfitting
 Selected optimal parameter combinations
-## 📈 Model Evaluation
+### 📈 Model Evaluation
 
 The models were evaluated using multiple performance metrics.
 
@@ -127,7 +127,7 @@ Accuracy Comparison Chart
 
 The Random Forest model achieved the best performance and was selected for deployment.
 
-## 🚀 Streamlit Deployment
+### 🚀 Streamlit Deployment
 
 A user-friendly Streamlit web application was developed to allow real-time predictions.
 
@@ -141,14 +141,14 @@ Features
 
 ✅ Instant prediction results
 
-## User Inputs
+### User Inputs
 Sepal Length
 Sepal Width
 Petal Length
 Petal Width
 Output
 
-## Predicted Iris Flower Species
+### Predicted Iris Flower Species
 
 # 📸 Screenshots
 Application Home Page
@@ -162,7 +162,7 @@ Prediction Result
 <img width="429" height="186" alt="image" src="https://github.com/user-attachments/assets/252fbcbd-903c-4090-8bbc-8f9460b720c1" />
 
 
-## ▶ How to Run
+### ▶ How to Run
 Clone Repository
 git clone https://github.com/yourusername/Iris-Flower-Classification.git
 Navigate to Project
@@ -173,7 +173,7 @@ Run Streamlit Application
 streamlit run app.py
 Open Browser
 http://localhost:8501
-## 📌 Future Improvements
+### 📌 Future Improvements
 Deploy application on Streamlit Cloud.
 Add probability scores for predictions.
 Implement additional classification algorithms.
