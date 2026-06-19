@@ -164,7 +164,7 @@ Prediction Result
 
 ## ▶ How to Run
 Clone Repository
-git clone https://github.com/yourusername/Iris-Flower-Classification.git
+git clone https://github.com/Srishti01291456/Iris-Flower-Classification.git
 Navigate to Project
 cd Iris-Flower-Classification
 Install Dependencies
